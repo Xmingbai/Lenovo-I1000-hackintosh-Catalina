@@ -31,7 +31,7 @@ WiFi： Fast USB WiFi 驱动成功，感觉比intel WiFi速度更快，上个网
 
 ![](https://github.com/Xmingbai/Lenovo-I1000-hackintosh-Catalina/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 ![](https://github.com/Xmingbai/Lenovo-I1000-hackintosh-Catalina/blob/main/%E6%98%BE%E7%A4%BA%E5%99%A8.png)
-![]https://github.com/Xmingbai/Lenovo-I1000-hackintosh-Catalina/blob/main/%E7%94%B5%E6%B1%A0.png)
+![](https://github.com/Xmingbai/Lenovo-I1000-hackintosh-Catalina/blob/main/%E7%94%B5%E6%B1%A0.png)
 ![](https://github.com/Xmingbai/Lenovo-I1000-hackintosh-Catalina/blob/main/%E8%93%9D%E7%89%99.png)
 ![](https://github.com/Xmingbai/Lenovo-I1000-hackintosh-Catalina/blob/main/USB%20WiFi.png)
 
