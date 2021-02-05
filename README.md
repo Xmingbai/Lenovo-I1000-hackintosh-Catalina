@@ -9,6 +9,7 @@
 # 硬件基本信息
 
 CPU： i7-4558U
+
 显卡：intel Iris Graphics 5100
 
 内存：三星 4G DDR3 1600
