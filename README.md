@@ -30,7 +30,7 @@ WiFi：Qualcomm  Atheros AR9565 （ Mini PCIE接口推荐BCM94360HMB），手上
 
 # OC 0.6.6 驱动基本情况
 
-CPU： 正常瑞普
+CPU： 正常睿频
 
 核显： 双硬解正常
 
