@@ -28,3 +28,14 @@ WiFi： Fast USB WiFi 驱动成功，感觉比intel WiFi速度更快，上个网
 睡眠： 盒盖息屏、开盖亮屏，正常
 
 说明：没有做USB端口定制，由于笔记本年久老化，USB端口只有左边一个可用，右边2个已经损坏不可用。
+
+相关链接下载
+
+1.USB WiFi OC版
+
+https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V6
+
+2.万能声卡 OC版
+
+https://github.com/chris1111/VoodooHDA-OC
+
