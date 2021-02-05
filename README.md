@@ -49,6 +49,8 @@ WiFi： Fast USB WiFi 驱动成功，感觉比intel WiFi速度更快，上个网
 ![](https://github.com/Xmingbai/Lenovo-I1000-hackintosh-Catalina/blob/main/USB%20WiFi.png)
 
 
+整体感受：
+从拆机换硬盘，安装Catalina到完善，花了半天时间，也算是一点小成就，体验不错，Catalina 流畅运行。
 
 说明：没有做USB端口定制，由于笔记本年久老化，USB端口只有左边一个可用，右边2个已经损坏不可用。
 
