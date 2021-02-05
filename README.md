@@ -2,10 +2,10 @@
 # 联想小新一代 
 
 # Lenovo-I1000-hackintosh-Catalina 10.15.x  
+# 缘起：
+自己保留的一台2014年办公笔记本，本着为了测试普通笔记本MacOS体验，做了OC0.6.6 引导来安装Catalina 10.15.7
 
-缘起：自己保留的一台2014年办公笔记本，本着为了测试普通笔记本MacOS体验，做了OC0.6.6 引导来安装Catalina 10.15.7
-
-硬件基本信息
+# 硬件基本信息
 
 CPU： i7-4558U
 显卡：intel Iris Graphics 5100
@@ -19,7 +19,7 @@ WiFi：Qualcomm  Atheros AR9565 （ Mini PCIE接口推荐BCM94360HMB），手上
 声卡： Realtek ALC233
 
 
-OC 0.6.6 驱动基本情况
+# OC 0.6.6 驱动基本情况
 
 CPU： 正常瑞普
 
