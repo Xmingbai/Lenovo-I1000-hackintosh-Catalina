@@ -23,7 +23,7 @@ CPU： i7-4558U
 
 SSD： 机械SATA 更换为 SSD 三星 830 64G（捡来的）
 
-WiFi：Qualcomm  Atheros AR9565 （ Mini PCIE接口推荐BCM94360HMB），手上有一个Fast USB WiFi 暂且用着也无碍
+WiFi：Qualcomm  Atheros AR9565 
 
 声卡： Realtek ALC233
 
@@ -38,7 +38,7 @@ CPU： 正常睿频
 
 蓝牙：Qualcomm  Atheros AR9565蓝牙 正常识别
 
-WiFi： Fast USB WiFi 驱动成功，感觉比intel WiFi速度更快，上个网看个片完全满足
+WiFi：正常驱动
 
 电池：正常识别
 
